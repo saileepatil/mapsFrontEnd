@@ -1,4 +1,4 @@
-import MapPage from "./component/Map";
+import MapPage from "./Component/Map.jsx";
 
 
 function App() {
