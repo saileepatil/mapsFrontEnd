@@ -25,7 +25,7 @@ const Recenter = ({ position }) => {
   return null;
 };
 
-function Map() {
+function MapPage() {
   const [position, setPosition] = useState(null); 
   const [path, setPath] = useState([]); 
 
@@ -74,4 +74,4 @@ function Map() {
   );
 }
 
-export default Map;
+export default MapPage;
